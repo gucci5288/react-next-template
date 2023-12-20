@@ -9,6 +9,8 @@ const generateMagicSquare = (s: number[][]) => {
 }
 
 
+
+
 export default function Login() {
 
     // generateMagicSquare(example)
